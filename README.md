@@ -18,6 +18,6 @@ This project trains word embeddings on the **text8** dataset (a cleaned subset o
 3. Use the generated `vecs.tsv` and `meta.tsv` to visualize results.
 
 ## Visualization Results
-Below is a visualization of the learned word embeddings projected using PCA. The cluster highlights semantic relationships captured by the model (e.g., "terrorist" appearing close to "pentagon", "hijacking", and "islamist").
+Below is a visualization of the learned word embeddings projected using PCA. The cluster highlights semantic relationships captured by the model (e.g., "terrorist" appearing close to "osama", "sayed", and "islamist").
 
 ![Embedding Visualization](embedding_visualization.jpg)
